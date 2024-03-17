@@ -1,0 +1,32 @@
+Game of Arkanoid
+=======================================================================================
+
+Características del juego que faltan por implementar:
+
+Pantalla de inicio
+Pantalla de ayuda y teclas
+Pantalla de configuracion
+Pantalla de Game Over
+
+Sistema de puntuación
+
+Sistema de record de puntuación, apuntando iniciales de las personas que han jugado.
+
+Sprites y efectos de sonido del juego original.
+
+10 niveles diferentes para elegir
+
+6 potenciadores para mejorar el juego:
+
+- Vida Extra: Aumenta tu número de vidas en uno
+- Triple: Agrega dos bolas extra a la pantalla.
+- Expandir: alarga tu nave para facilitar el juego
+- Imán: hace que tu barco sea magnético, las bolas ya no rebotarán en tu barco.
+- Láser: le da a tu nave la capacidad de disparar láseres, destruyendo bloques en su camino.
+- Ball Shower: ¡Abraza el caos!
+
+3 tipos de bloques:
+
+- Bloques de colores: recibe un golpe para destruir
+- Bloques de plata: toma dos para destruir
+- Golden Blocks: nunca se pueden destruir, ¿podrás encontrar una manera de evitarlos?
